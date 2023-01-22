@@ -1,0 +1,11 @@
+/* fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter&family=Open+Sans:wght@300;400&family=Poppins:wght@500&family=Work+Sans:wght@400;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter&family=Open+Sans:wght@300;400&family=Poppins:wght@500&family=Roboto&family=Work+Sans:wght@400;700&display=swap');
+
+
+.pf-title{
+    font-family: 'Bebas Neue', cursive;
+}
+.pf-font2{
+    font-family: 'Roboto', sans-serif;
+}
